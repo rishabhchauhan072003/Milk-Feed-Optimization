@@ -16,7 +16,7 @@ This project aimed to identify the most effective feed strategies for maximizing
 
 ## ✅ Key Insights:
 - **Feed type matters**: 'Meal' feed generally resulted in higher milk yields than 'Pasture' or 'Silage'.
-- **Feed quantity has a positive relationship** with milk output — especially between 8–13 kg/day.
+- **Feed quantity has a positive relationship** with milk output, especially between 8–13 kg/day.
 - **Temperature and rainfall** had a nonlinear effect on production, with moderate climates being more optimal.
 - **Feature importance** revealed that `Feed_Quantity_kg`, `Feed_Type_Meal`, and `Temperature_C` were the top drivers of milk production.
 
@@ -29,5 +29,4 @@ This project aimed to identify the most effective feed strategies for maximizing
 Python, Pandas, Seaborn, Scikit-learn (Random Forest)
 
 ## 💡 Conclusion:
-This project demonstrates how data science can be used to optimize feeding strategies in the dairy industry by analyzing climate and feed input variables. A better understanding of these factors can support sustainable and profitable farm systems — aligning directly with the goals of DairyNZ.
-
+This project demonstrates how data science can be used to optimize feeding strategies in the dairy industry by analyzing climate and feed input variables. A better understanding of these factors can support sustainable and profitable farm systems.
